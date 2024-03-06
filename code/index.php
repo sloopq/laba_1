@@ -12,7 +12,7 @@ $variableOne = 0x1A; // 26
 $float = 1.234;
 $float = 1.2e3; // 1.2 * 10ˆ3
 
-//  string
+//  string  
 
 $string = 'qwerty $erp {$erp}'; 
 $erp = '1234';
